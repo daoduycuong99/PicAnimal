@@ -1,0 +1,15 @@
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\bin\Debug\Animals.exe.config
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\bin\Debug\Animals.exe
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\bin\Debug\Animals.pdb
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\bin\Debug\xNet.dll
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\obj\Debug\Animals.csproj.AssemblyReference.cache
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\obj\Debug\Animals.Form1.resources
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\obj\Debug\Animals.Properties.Resources.resources
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\obj\Debug\Animals.csproj.GenerateResource.cache
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\obj\Debug\Animals.csproj.CopyComplete
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\obj\Debug\Animals.exe
+C:\Users\Dao Duy Cuong\source\repos\Animals\Animals\obj\Debug\Animals.pdb
